@@ -1,4 +1,4 @@
-http://workplace.stackexchange.com/questions/87357/how-to-win-a-promotion-my-mentor-is-interested-in-sayak::200::OK
+http://workplace.stackexchange.com/questions/87357/how-to-win-a-promotion-my-mentor-is-interested-in::200::OK
 http://workplace.stackexchange.com/questions/86893/my-boss-new-hire-a-friend-of-his-is-making-advances-on-me::200::OK
 http://math.stackexchange.com/questions/2184222208/domain-of-a-polynomial-function/2184247#2184247::404::Not Found
 http://a16z.com/::200::OK
